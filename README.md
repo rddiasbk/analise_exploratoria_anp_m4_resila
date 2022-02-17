@@ -1,6 +1,6 @@
 # Análise exploratória de série histórica de combustíveis.
 
-Esta análise faz parte do trabalho de conclusão de curso de formação em Análise de Dados da Resilia Educação com base nas informações disponibilizadas pela Agência Nacional de Petróleo e Gás Natural e Biocombustíveis (ANP).
+Esta análise faz parte do trabalho de conclusão de curso de formação em Análise de Dados da Resilia Educação com base nas informações disponibilizadas pela Agência Nacional de Petróleo e Gás Natural e Biocombustíveis (ANP). Este arquivo especificamente trata-se das duas primeiras questões do projeto.
 
 
 ## Autores
@@ -20,15 +20,6 @@ Os datafames utilizados estão disponibilizados abaixo:
 A análise foi criada a apartir de 10 perguntas propostas que foram divididas entre os membros do grupo:
 > 1) Como se comportaram o preço dos combustíveis durante os dois meses citados? Os valores do etanol e da gasolina tiveram uma tendência de queda ou diminuição?
 > 2) Qual o preço médio da gasolina e do etanol nesses dois meses?
-> 3) Quais os 5 estados com o preço médio da gasolina e do etanol mais caros?
-> 4) Qual o preço médio da gasolina e do etanol por estado?
-> 5) Qual o município que possui o menor preço para a gasolina e para o etanol?
-> 6) Qual o município que possui o maior preço para a gasolina e para o etanol?
-> 7) Qual a região que possui o maior valor médio da gasolina?
-> 8) Qual a região que possui o menor valor médio do etanol?
-> 9) Há alguma correlação entre o valor do combustível (gasolina e etanol) e a região onde ele é vendido?
-> 10) Há alguma correlação entre o valor do combustível (gasolina e etanol) e a bandeira que vende ele?
-
 
 ## Resultados
 **Questão 01** -  Consulta aferida a partir do valor médio dos combustíveis que apresentaram os seguintes dados:
