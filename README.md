@@ -1,6 +1,6 @@
 # Análise exploratória de série histórica de combustíveis.
 
-Esta análise faz parte do trabalho de conclusão de curso de formação em Análise de Dados da Resilia Educação com base nas informações disponibilizadas pela Agência Nacional de Petróleo e Gás Natural e Biocombustíveis (ANP). Este arquivo especificamente trata-se das duas primeiras questões do projeto.
+Esta análise faz parte do trabalho de conclusão do Módulo 04 de formação em Análise de Dados da Resilia Educação com base nas informações disponibilizadas pela Agência Nacional de Petróleo e Gás Natural e Biocombustíveis (ANP). Este arquivo especificamente trata-se das duas primeiras questões do projeto.
 
 
 ## Autores
